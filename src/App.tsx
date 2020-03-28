@@ -1,11 +1,12 @@
 import React from 'react';
-import { SocialCard } from './containers/socialCard/socialCard'
-import './App.css';
+import { SocialCard } from './containers/SocialCard'
+import { StyleComponentTest } from './containers/StyleComponentTest';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ textAlign: 'center' }}>
       <SocialCard />
+      <StyleComponentTest />
     </div>
   );
 }
