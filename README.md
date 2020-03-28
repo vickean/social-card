@@ -1,3 +1,7 @@
+# social-card
+
+"Just a fun project to work on during the Covid-19 Movement Control Order in Malaysia." - McFluffenstein 28/03/2020 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
